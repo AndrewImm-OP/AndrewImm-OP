@@ -1,59 +1,95 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=andrewimm-op&label=Profile%20views&color=0e75b6&style=flat" alt="andrewimm-op" />
-</p>
+<div align="center">
 
-# Привет, я Андрей! 👋
+# Andrew
 
-Я Software Developer, увлеченный созданием сложных систем, от кроссплатформенных аудиоприложений (DAW) до модов для игр и автоматизации. Люблю копаться в архитектуре, реверс-инжиниринге и интеграции AI-инструментов в рабочие процессы. 
+**Software Developer · Flutter · Automation · Linux**
 
-Среда обитания: **Linux (CachyOS + KDE Plasma)** 🐧
+[![Profile Views](https://komarev.com/ghpvc/?username=andrewimm-op&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/TimeConqueror12)
+[![NPM](https://img.shields.io/badge/NPM-andrewimm--op-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~andrewimm-op)
+[![Discord](https://img.shields.io/badge/Discord-time__conqueror-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
----
-
-### 🚀 Над чем я сейчас работаю
-
-*   **[Hymn]** — кроссплатформенная оболочка для DAW. Пишу на **C++** с использованием **Avalonia UI**, разрабатываю многопоточный DSP-планировщик и архитектуру DAG Mixer.
-*   **[coda]** — мобильное музыкальное приложение на **Flutter** (с движком `media_kit`). Агрегирую фичи из разных аудиоисточников.
-*   **[photochat]** — мод для Minecraft (Fabric). Позволяет рендерить медиафайлы прямо во внутриигровом чате и интерактивных книгах.
-*   **Скрипты и автоматизация** — пишу парсеры и ботов на **Python** (Playwright, Chrome DevTools Protocol).
+</div>
 
 ---
 
-### 🛠 Мой стек технологий и инструменты
+## About
 
-**Языки программирования:**
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Я Software Developer, увлеченный кроссплатформенной разработкой, автоматизацией и реверс-инжинирингом. Люблю копаться в архитектуре, писать аккуратный код и создавать удобные приложения. 
+
+Среда обитания: **Linux (CachyOS + KDE Plasma)** 🐧. В свободное время пишу парсеры, ковыряю моды для Minecraft и настраиваю прокси.
+
+```python
+class Andrew:
+    focus = [
+        "cross-platform apps",
+        "automation & parsing",
+        "reverse engineering",
+        "minecraft modding",
+        "linux system admin",
+    ]
+
+    stack = {
+        "main": ["Dart", "Python", "C++", "Java"],
+        "frameworks": ["Flutter", "Playwright", "Fabric"],
+        "tools": ["Docker", "Radare2", "Selenium", "Puppeteer"],
+        "infrastructure": ["PostgreSQL", "Nginx", "Redis", "SQLite"],
+    }
+```
+
+---
+
+## Core projects
+
+| Project | Description | Link |
+|---|---|---|
+| **coda** | Мобильное музыкальное приложение на Flutter (движок `media_kit`). Агрегирует крутые фичи в один удобный интерфейс. | [GitHub](#) |
+
+---
+
+## Stack and interests
+
+<div align="center">
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Фреймворки и технологии:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia%20UI-9C27B0?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-FF0000?style=for-the-badge)
 ![Fabric](https://img.shields.io/badge/Minecraft%20Fabric-DBD8CD?style=for-the-badge)
 
-**Инструменты и ОС:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Radare2](https://img.shields.io/badge/Radare2-FF0000?style=for-the-badge)
-![FL Studio](https://img.shields.io/badge/FL%20Studio-F6871F?style=for-the-badge&logo=fl-studio&logoColor=white)
+</div>
 
 ---
 
-### 📊 Статистика GitHub
+## Current focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimeConqueror12&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimeConqueror12&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+- Развитие **coda**: интеграция новых фич и улучшение кроссплатформенного интерфейса на Flutter.
+- Написание скриптов автоматизации и парсеров на Python (Playwright / Selenium).
+- Разработка модов для Minecraft (Fabric).
+- Администрирование Linux (CachyOS) и настройка сетевых утилит.
+- Реверс-инжиниринг и анализ бинарников с помощью Radare2.
 
 ---
 
-### 📫 Как со мной связаться
+<div align="center">
 
-*   **Discord:** `time_conqueror`
-*   **NPM:** [andrewimm-op](https://www.npmjs.com/~andrewimm-op)
-*   **Hugging Face:** [MinovayIa](https://huggingface.co/MinovayIa)
+[GitHub](https://github.com/TimeConqueror12) · [NPM](https://www.npmjs.com/~andrewimm-op) · Discord: `time_conqueror`
 
-⚡ *Fun fact: Если я не пишу код, то скорее всего настраиваю сервер на Velocity, свожу треки или тюню промпты для нейросетей.*
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewimm-op&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewimm-op&show_icons=true&locale=en" alt="Stats" />
+</div>
