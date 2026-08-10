@@ -1,4 +1,147 @@
+<!-- Анимированный заголовок -->
 <div align="center">
+  <a href="https://github.com/andrewimm-op">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Andrew+👋;Software+Developer;Flutter+%7C+Python+%7C+C%2B%2B;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/andrewimm-op">
+    <img src="https://komarev.com/ghpvc/?username=andrewimm-op&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://www.npmjs.com/~andrewimm-op">
+    <img src="https://img.shields.io/badge/NPM-andrewimm--op-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-time__conqueror-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<div align="center">
+  <i>«Код должен быть не только рабочим, но и красивым, как архитектура хорошего приложения.»</i>
+</div>
+
+<br>
+
+## 👨‍💻 Обо мне (About Me)
+
+Я Software Developer, специализирующийся на кроссплатформенной разработке, построении архитектуры, автоматизации и реверс-инжиниринге. Люблю собирать сложные и масштабируемые системы, оптимизировать производительность и досконально разбираться в том, как работают программы под капотом.
+
+Моя основная и любимая среда обитания — **Linux (CachyOS + KDE Plasma)** 🐧. Когда я не пишу код для глобальных проектов, я занимаюсь настройкой сетей, ковыряю бинарники через Radare2, пишу продвинутые парсеры и настраиваю моды для Minecraft (Fabric).
+
+```json
+{
+  "name": "Andrew",
+  "roles": [
+    "Software Engineer",
+    "Cross-platform Developer",
+    "Automation Specialist"
+  ],
+  "os_preference": "Linux (CachyOS + KDE Plasma)",
+  "current_focus": {
+    "project": "coda",
+    "type": "Mobile Music Application",
+    "stack": ["Flutter", "Dart", "media_kit"]
+  },
+  "hobbies": [
+    "Minecraft Modding (Fabric)",
+    "Reverse Engineering",
+    "Parsers & Automation"
+  ]
+}
+```
+
+## 🚀 Над чем я сейчас работаю
+
+*   📱 **[coda](#)** — Кроссплатформенное мобильное музыкальное приложение.
+    *   **Под капотом:** Написано на `Flutter` с использованием гибкого медиадвижка `media_kit`.
+    *   **Суть проекта:** Агрегация, объединение и синхронизация лучших функций из различных источников в единый, быстрый и удобный пользовательский интерфейс. Фокус на стабильную работу со звуком и отзывчивый UI.
+
+## 🛠 Технологии и Инструменты (Stack & Tools)
+
+<details open>
+  <summary><b>💻 Языки программирования (Languages)</b></summary>
+  <br>
+  <p align="left">
+    <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/></a>
+    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+    <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/></a>
+    <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
+    <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/></a>
+    <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/></a>
+    <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/></a>
+    <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+  </p>
+</details>
+
+<details open>
+  <summary><b>📱 Фреймворки и Платформы (Frameworks)</b></summary>
+  <br>
+  <p align="left">
+    <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/></a>
+    <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/></a>
+    <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+    <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+    <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/></a>
+    <a href="https://www.electronjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="45" height="45"/></a>
+  </p>
+</details>
+
+<details open>
+  <summary><b>⚙️ Инфраструктура, Автоматизация и БД (Infra & DB)</b></summary>
+  <br>
+  <p align="left">
+    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
+    <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+    <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/></a>
+    <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
+    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
+    <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/></a>
+    <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/></a>
+    <a href="https://github.com/puppeteer/puppeteer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="45" height="45"/></a>
+    <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="45"/></a>
+  </p>
+</details>
+
+---
+
+## 📊 Аналитика и Статистика (GitHub Metrics)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewimm-op&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=andrewimm-op&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=andrewimm-op&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" style="border: none; width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewimm-op&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewimm-op&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+    </td>
+    <td align="center" style="border: none; width: 50%;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br><div align="center">
 
 # 👨‍💻 Андрей (Andrew) | Software Developer
 
