@@ -4,81 +4,55 @@
 
 <br>
 
-<a href="#about">ABOUT</a>
-  ·   <a href="#focus">FOCUS</a>
-  ·   <a href="#coda">CODA</a>
-  ·   <a href="#stack">STACK</a>
-  ·   <a href="#elsewhere">ELSEWHERE</a>
+`Systems & Architecture` &nbsp;·&nbsp; `Reverse Engineering` &nbsp;·&nbsp; `Cross-Platform` &nbsp;·&nbsp; `Linux-First`
 
-<br><br>
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/AndrewImm-OP?style=flat&color=121212&labelColor=1a1a1a&label=followers)](https://github.com/AndrewImm-OP)
+[![Repositories](https://img.shields.io/badge/projects-active-blue?style=flat&color=121212&labelColor=1a1a1a)](https://github.com/AndrewImm-OP?tab=repositories)
+[![Environment](https://img.shields.io/badge/environment-CachyOS%20%7C%20zsh-6c5ce7?style=flat&color=121212&labelColor=1a1a1a)](https://github.com/AndrewImm-OP)
 
 </div>
 
 ---
 
-## `01` — About
+### `// 01` — Core Philosophy
 
-I'm **Andrew**, a Software Engineer focused on building systems that are fast, maintainable, and difficult to break.
+I'm **Andrew**, a software engineer interested in what happens underneath the abstraction layer. 
 
-My work spans **cross-platform development, software architecture, automation, reverse engineering, and low-level systems**.
-
-I like understanding software beyond the API surface — how data moves through a system, how components interact, where performance disappears, and why something behaves the way it does.
+I design systems built for predictability, speed, and clean fault boundaries — from UI layers and state machines down to native runtimes, bytecode engines, network bypasses, and binary formats.
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   SOFTWARE ENGINEERING                                      │
-│   ├── Architecture                                          │
-│   ├── Cross-platform development                            │
-│   ├── Performance                                           │
-│   └── Automation                                            │
-│                                                             │
-│   SYSTEMS                                                   │
-│   ├── Reverse engineering                                   │
-│   ├── Binary analysis                                       │
-│   ├── Networking                                             │
-│   └── Data formats / parsers                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌── [ HIGH-LEVEL ] ──── Cross-Platform UI, State Management, Media Pipelines
+├── [ ARCHITECTURE ] ── Decoupled Systems, Deterministic Tooling, IPC, Daemons
+├── [ SYSTEMS ] ─────── Linux Runtimes, Memory, Profiling, Custom Parsers
+└── [ LOW-LEVEL ] ───── Bytecode & Assembly, Reverse Engineering, DPI & Networking
 ```
 
 ---
 
-## `02` — Focus
+### `// 02` — Featured Systems & Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Architecture
+#### 🎵 [coda](https://github.com/AndrewImm-OP/coda)
+**Cross-Platform Music Streaming Aggregator**  
+*One player, every source.*
 
-Designing software around clear boundaries, predictable behavior, and long-term maintainability.
-
-I care about the structure underneath the UI just as much as the UI itself.
-
-</td>
-<td width="50%" valign="top">
-
-### Cross-platform
-
-Building applications that share a codebase without turning platform-specific behavior into an afterthought.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Automation
-
-Replacing repetitive workflows with tooling that is deterministic, reproducible, and boring in the best possible way.
+- **Engine:** Flutter UI + Native **Rust core** (`libcoda_core.so`) + `media_kit`.
+- **Under the hood:** On-the-fly streaming AES-128-CTR loopback decryption with HTTP Range seeking; 2-byte TLS ClientHello DPI fragmentation bypass; zero-latency cache isolation.
 
 </td>
 <td width="50%" valign="top">
 
-### Reverse Engineering
+#### ⚙️ [gmmt](https://github.com/AndrewImm-OP/gmmt)
+**GameMaker Modding & Linux Runtime Engine**  
+*Bridging platforms and game engines.*
 
-Taking software apart to understand its internals — binaries, protocols, formats, runtime behavior, and undocumented interfaces.
+- **Stack:** C# / .NET 10 + Avalonia UI + `UndertaleModLib`.
+- **Under the hood:** Engine version & bytecode classification; automatic GameMaker Linux runner matching; non-destructive Steam mod deployment with backup & restore semantics.
 
 </td>
 </tr>
@@ -86,124 +60,56 @@ Taking software apart to understand its internals — binaries, protocols, forma
 
 ---
 
-## `03` — coda
+### `// 03` — Toolbox & Technologies
 
-### A different way to experience music.
+<div align="center">
 
-**coda** is a cross-platform mobile music application built around aggregation, synchronization, and a fast user experience.
+| Area | Technologies |
+|:---|:---|
+| **Languages** | `Rust` `C++` `C#` `Dart` `Python` `Java / Kotlin` `TypeScript` `Bash` |
+| **Frameworks & Runtimes** | `Flutter` `Avalonia` `.NET` `FastAPI` `Fastify` `Node.js` |
+| **Systems & Reverse Eng.** | `Radare2` `Ghidra` `UndertaleModLib` `ELF Analysis` `xdelta3` `Wireshark` |
+| **Ecosystem & OS** | `CachyOS / Arch Linux` `KDE Plasma` `Docker` `Git` `Proton / Wine` |
 
-```text
-Flutter
-   │
-   ├── UI
-   │
-   ├── Application Architecture
-   │
-   ├── Source Aggregation
-   │
-   ├── Synchronization
-   │
-   └── media_kit
-          │
-          └── Audio Playback
-```
+<br>
 
-The goal is simple:
+<img src="https://skillicons.dev/icons?i=rust,cpp,cs,dart,python,java,ts,flutter,dotnet,linux,bash,git,docker&theme=dark" alt="Skills Matrix" />
 
-> **Take the best parts of different sources and bring them together behind one coherent interface.**
-
-Current priorities:
-
-* stable audio playback
-* responsive UI
-* source aggregation
-* synchronization
-* predictable platform behaviour
-* maintainable architecture
+</div>
 
 ---
 
-## `04` — Stack
+### `// 04` — Workspace & Environment
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=dart,cpp,python,java" height="42" alt="Languages">
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,git,github" height="42" alt="Development tools">
-</p>
-
-### Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" height="42" alt="Systems">
-</p>
-
-### Tools
-
-```text
-Radare2          Binary analysis
-Fabric           Minecraft modding
-media_kit        Media playback
-Flutter          Cross-platform applications
-Git              Version control
-Linux            Primary development environment
+```ini
+[Host]
+OS       = CachyOS (Linux x86_64)
+Kernel   = Linux (Optimized / BORE Scheduler)
+Desktop  = KDE Plasma (Terminal-First Workflow)
+Shell    = zsh + custom automated tooling
 ```
 
 ---
 
-## `05` — Environment
+### `// 05` — Engineering Radar
 
 ```text
-OS          CachyOS
-Desktop     KDE Plasma
-Shell       zsh
-Workflow    terminal-first
+> "I wonder how this actually works under the hood."
 ```
 
-Linux is my primary environment.
-
-I prefer having control over the development stack — from the editor and build system down to networking, processes, binaries, and the operating system itself.
-
----
-
-## `06` — Elsewhere
-
-Outside of the main projects, I spend time on things that usually start with:
-
-> *"I wonder how this actually works."*
-
-```text
-reverse engineering
-binary analysis
-network experiments
-advanced parsers
-automation tooling
-Minecraft / Fabric
-undocumented protocols
-performance experiments
-```
-
-The common thread is curiosity.
-
-If something is opaque, I want to understand it.
+- **Runtime & VM Internals:** Bytecode manipulation, custom interpreters, virtual machines.
+- **Network Resilience:** TLS fingerprinting, DPI circumvention, custom proxies.
+- **Audio & Media Pipelines:** Low-latency decoding, streaming loopbacks, stem separation.
+- **Modding Systems:** Fabric (Minecraft), GameMaker runtimes, hooking & binary patching.
 
 ---
 
 <div align="center">
 
-<br>
-
 <img src="./assets/footer.svg" width="100%" alt="">
 
-<br><br>
+<br>
 
-<sub>
-Software Engineer · Linux enthusiast · systems curious
-</sub>
+<sub>Designed for stability. Built from the runtime up.</sub>
 
 </div>
